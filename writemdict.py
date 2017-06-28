@@ -210,7 +210,7 @@ class MDictWriter(object):
 		  encrypted key in a separate .key file.
 		
 		is_mdd is a boolean specifying whether the file written will be an mdx file
-		  or an mdd file. By default this is False, meaning that an mdd file will
+		  or an mdd file. By default this is False, meaning that an mdx file will
 		  be written.
 		"""
 
